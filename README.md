@@ -111,13 +111,13 @@ RESEND_API_KEY=
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/amrutha-kommina/splitr.git
 ```
 
 Navigate into the project
 
 ```bash
-cd ai-splitwise-clone
+cd splitr
 ```
 
 Install dependencies
@@ -262,7 +262,6 @@ Deployment Steps:
 ## 📈 Future Enhancements
 
 - Multi-currency support
-- Expense analytics dashboard
 - OCR receipt scanning
 - Recurring expenses
 - Mobile application
